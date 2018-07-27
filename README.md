@@ -8,7 +8,7 @@ Table of Content
 3. Challenges
 4. Pipeline flow
 
-Background
+Background 
 
 Every year more than $80 Billion is spent on digital marketing and advertisement which includes Mobile devices, electronic Billboards etc.
 
@@ -35,5 +35,5 @@ This connected graph give companies a platform to target audiences by their usag
 Pipeline Flow
 
 <p align="center">
-  <img src="Screen%20Shot%202018-07-27%20at%208.45.51%20AM.png" width="1000" title="Pipeline">
+  <img src="Screen%20Shot%202018-07-27%20at%209.27.49%20AM.png" width="1000" title="Pipeline">
 </p>
