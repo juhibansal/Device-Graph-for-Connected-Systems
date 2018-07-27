@@ -34,4 +34,4 @@ This connected graph give companies a platform to target audiences by their usag
 
 Pipeline Flow
 
-https://github.com/juhibansal/Device-Graph-for-Connected-Systems/blob/master/Screen%20Shot%202018-07-27%20at%208.45.51%20AM.png
+Device-Graph-for-Connected-Systems/Screen Shot 2018-07-27 at 8.45.51 AM.png
