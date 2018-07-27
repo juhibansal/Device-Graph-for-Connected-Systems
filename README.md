@@ -33,4 +33,7 @@ In the Transform phase, data is connected as a graph with Device Ids as nodes co
 This connected graph give companies a platform to target audiences by their usage, user type. This graph can further be used a lift in business due to an advertisement serve. 
 
 Pipeline Flow
-https://github.com/juhibansal/Device-Graph-for-Connected-Systems/blob/master/Screen%20Shot%202018-07-27%20at%208.45.51%20AM.png
+
+<p align="center">
+  <img src="Screen%20Shot%202018-07-27%20at%208.45.51%20AM.png" width="1000" title="Pipeline">
+</p>
